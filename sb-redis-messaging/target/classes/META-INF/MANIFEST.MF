@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: sb-redis-messaging
+Implementation-Version: 0.1.0
+Built-By: venkateshs
+Implementation-Vendor-Id: org.springframework
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/sb-redis-mes
+ saging/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
