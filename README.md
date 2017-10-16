@@ -9,9 +9,9 @@ pub sub messaging with redis
   $ ./redis/4.0.2/bin/redis-server
   # CLI client  
   $ ./redis/4.0.2/redis-cli
-   > set hello-key 'welcome to redis'
+   $ > set hello-key 'welcome to redis'
    OK
-   > get hello-key
+   $ > get hello-key
    "welcome to redis"
    
   
